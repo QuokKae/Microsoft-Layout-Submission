@@ -5,3 +5,12 @@ span {
 body {
     text-align: center;
 }
+
+/* bonus styling */
+.icons span {
+    padding-left: 30px;
+}
+
+.mini-quad span{
+    padding-left: 15px;
+}
